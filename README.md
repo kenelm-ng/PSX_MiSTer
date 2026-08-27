@@ -1,5 +1,7 @@
 # [Playstation](https://en.wikipedia.org/wiki/PlayStation_(console)) for [MiSTer Platform](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
+> **Note:** This is a fork that supports **CRT offset** — allowing you to adjust the horizontal and vertical position of the image on a CRT TV directly from the OSD.
+
 ## Hardware Requirements
 SDRAM of any size is required.
 
